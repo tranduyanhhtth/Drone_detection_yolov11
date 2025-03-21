@@ -1,0 +1,3 @@
+/home/danz/Downloads/Drone_detect/yolov11_cpp_project/build/CMakeFiles/yolov11_cpp_project.dir
+/home/danz/Downloads/Drone_detect/yolov11_cpp_project/build/CMakeFiles/edit_cache.dir
+/home/danz/Downloads/Drone_detect/yolov11_cpp_project/build/CMakeFiles/rebuild_cache.dir
